@@ -1,0 +1,53 @@
+*{margin: 0;
+}
+.body{
+    font-size:0;
+}
+.yana{
+
+    height:50px ;
+    width: 100%; ;
+    background-color:yellow ;
+    margin: 10px;
+
+    
+}
+.naf{
+    height: 1000px;
+    width: 70%;
+    background-color: lightcoral;
+    display: inline-block;
+    margin: 10px;
+
+}
+.text{
+    
+    height:1000px ;
+    width: 30%; ;
+    background-color: indigo; 
+    display: inline-block;
+    margin: 10px;
+
+   
+
+    
+}
+.right{
+    
+    height:50px ;
+    width: 100%; ;
+    background-color: black;
+   
+
+}
+.down{
+    height:50px ;
+    width: 100%; ;
+    background-color: blue;
+    margin: 10px;
+
+}
+.fs{
+    overflow: hidden;
+    white-space: nowrap;
+}
